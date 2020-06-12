@@ -1,14 +1,18 @@
 # Starvan Website
 
-## Overview
+Starvan is focused on mobile internet solutions.
 
-- Built with Hugo
-- https://starvan-io.github.io/website
-- https://starvan.io
+## Website Overview
 
-## Theme
+Built with Hugo
 
-We use the theme `vimux/mainroad`.
+https://starvan-io.github.io/website
+
+https://starvan.io
+
+We use the hugo theme `vimux/mainroad`
+
+https://github.com/vimux/mainroad
 
 ## Developing
 
