@@ -1,10 +1,9 @@
-# starvan
+# Starvan Website
 
-starvan website
+Built with Hugo
 
 Theme: https://github.com/vimux/mainroad
 
-
-https://andyl.github.io/starvan
+https://starvan-io.github.io/website
 
 https://starvan.io

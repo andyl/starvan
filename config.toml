@@ -1,6 +1,6 @@
-baseURL = "http://example.org/"
+baseURL = "http://starvan.io/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Starvan"
 theme = "mainroad"
 paginate = "10" # Number of posts per page
 publishDir = "docs"
