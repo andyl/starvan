@@ -1,9 +1,20 @@
 # Starvan Website
 
-Built with Hugo
+## Overview
 
-Theme: https://github.com/vimux/mainroad
+- Built with Hugo
+- https://starvan-io.github.io/website
+- https://starvan.io
 
-https://starvan-io.github.io/website
+## Theme
 
-https://starvan.io
+We use the theme `vimux/mainroad`.
+
+## Developing
+
+- install hugo
+- clone the repo
+- create a new branch
+- install the theme `git submodule update --init`
+- make changes
+- submit a PR
